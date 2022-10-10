@@ -1,0 +1,65 @@
+﻿Short CENTURY
+	Int thisYear
+	Int nextYear
+	Int thisMonth
+	Int february
+	Double twentyNine
+	Double thisYear
+	2000
+	2010
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	2011
+	2013
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	2013
+	28.0
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	2016.5
+	
+
+	
+
+	
+
+	
+
+	2
